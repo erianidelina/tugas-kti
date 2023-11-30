@@ -1,0 +1,7 @@
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+D:\Semester 5\KTI\MyWebApp2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
